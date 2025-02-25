@@ -2,9 +2,6 @@
 
 ### Stewmc-ticket
 <p align="center">
-  <img src="https://img.shields.io/badge/Projeto-Stewmc--ticket-FFD700?style=for-the-badge" alt="Stewmc-ticket">
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Linguagem-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 <p align="center">
